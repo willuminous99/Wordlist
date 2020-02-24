@@ -1,24 +1,24 @@
-am						[primary auxiliary]
-is		isn't				[primary auxiliary]
-are		aren't		're not		[primary auxiliary]
-was		wasn't				[primary auxiliary]
-were		weren't				[primary auxiliary]
-being						[primary auxiliary]
-been						[primary auxiliary]
-does						[primary auxiliary]
-do		don't				[primary auxiliary]
-did		didn't				[primary auxiliary]
-has		hasn't				[primary auxiliary]
-have		haven't				[primary auxiliary]
-had		hadn't				[primary auxiliary]
-having						[primary auxiliary]
-can		can't				[modal auxiliary]
-could		couldn't			[modal auxiliary]
-may						[modal auxiliary]
-might						[modal auxiliary]
-must		mustn't				[modal auxiliary]
-ought to					[modal auxiliary]
-shall						[modal auxiliary]
-should						[modal auxiliary]
-will						[modal auxiliary]
-would						[modal auxiliary]
+am					
+is		isn't			
+are		aren't		're not
+was		wasn't			
+were		weren't			
+being					
+been					
+does					
+do		don't			
+did		didn't			
+has		hasn't			
+have		haven't			
+had		hadn't			
+having					
+can		can't			
+could		couldn't		
+may					
+might					
+must		mustn't			
+ought to				
+shall					
+should					
+will					
+would					
