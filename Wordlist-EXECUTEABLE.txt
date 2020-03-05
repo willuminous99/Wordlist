@@ -1,0 +1,28 @@
+Open Notepad [C:\WINDOWS\system32\notepad.exe]
+Ok, Boss I'll open it for you || Sorry application isn't installed or missing please define the path
+Open Character Map [C:\WINDOWS\system32\charmap.exe]
+Ok, Boss I'll open it for you ||  Sorry application isn't installed or missing please define the path
+Open Command Promt (CMD) [C:\WINDOWS\system32\cmd.exe]
+Ok, Boss I'll open it for you || Sorry application isn't installed or missing please define the path
+Open Control Panel [C:\WINDOWS\system32\control.exe]
+Ok, Boss I'll open it for you
+Open Partition (Disk Management) [C:\WINDOWS\system32\diskmgmt.msc]
+Ok, Boss I'll open it for you
+Open System Info (DXDIAG) [C:\WINDOWS\system32\dxdiag.exe]
+Ok, Boss I'll open it for you
+Open Task Manager [C:\WINDOWS\system32\Taskmgr.exe]
+Ok, Boss I'll open it for you
+Open Magnifier [C:\WINDOWS\system32\Magnify.exe]
+Ok, Boss I'll open it for you
+Open Sound Mixer (Volume) [C:\WINDOWS\system32\SndVol.exe]
+Ok, Boss I'll open it for you
+Open Windows Version [C:\WINDOWS\system32\winver.exe]
+Ok, Boss I'll open it for you
+Open File (Explorer) [C:\Windows\explorer.exe]
+Ok, Boss I'll open it for you
+Open WordPad [C:\Windows\write.exe]
+Ok, Boss I'll open it for you
+Open Word [C:\Program Files\Microsoft Office\Office15\WINWORD.EXE]
+Ok, Boss I'll open it for you
+Open Paint [C:\WINDOWS\system32\mspaint.exe]
+Ok, Boss I'll open it for you
